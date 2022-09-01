@@ -1,0 +1,3 @@
+#!/bin/bash
+echo ls -map
+ls -map | sort -d>>  103-commas
